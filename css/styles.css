@@ -1,0 +1,33 @@
+
+#breweries .brewery, #beers .beer {
+	margin-bottom:10px;
+}
+
+#breweries .text, #beers .text {
+	margin-bottom: 10px;
+}
+
+#breweries .logo, #beers .label, .logo, .label {
+	float:left;
+	padding:10px;
+}
+
+#beers .style, #breweries .established {
+	font-style: italic;
+}
+
+.clearfix {
+	clear:both;
+}
+
+#breweries .address {
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+.abv, .ibu, .glass, .available {
+	display: inline;
+    font-style: italic;
+    margin-right: 10px;
+} 
+
